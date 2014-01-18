@@ -34,7 +34,6 @@ setup(name='glacier',
           'boto',
           'python-dateutil',
           'pytz',
-          'argparse',
           'prettytable'
       ],
     entry_points="""
